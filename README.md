@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Tanuaj chokkakula</h1>
+<h1 align="center">Hey Everyone 👋, I'm Tanuaja chokkakula</h1>
 
 <div align="center">
   <img src="https://github.com/Tanuja9346/Tanuja9346/blob/main/Banner.png" alt="DevOpsShack Banner">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/Tanuja9346?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@devopsshack">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
